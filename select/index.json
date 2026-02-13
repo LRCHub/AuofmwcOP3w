@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "MEOW",
+  "base_artist": "MEOVV",
+  "createdAt": "2026-02-13T14:14:24.790844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Meow Meow Introduces the Grand Theft Orchestra",
+      "artist": "Amanda Palmer & The Grand Theft Orchestra",
+      "has_synced": false,
+      "path": "select/01_Meow_Meow_Introduces_the_Grand_Theft_Orchestra_Amanda_Palmer_&_The_Grand_Theft_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pussycat Meow",
+      "artist": "Deee-Lite",
+      "has_synced": true,
+      "path": "select/02_Pussycat_Meow_Deee-Lite.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pussycat Meow",
+      "artist": "Deee‐Lite",
+      "has_synced": true,
+      "path": "select/03_Pussycat_Meow_Deee‐Lite.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Meow",
+      "artist": "Anamanaguchi",
+      "has_synced": true,
+      "path": "select/04_Meow_Anamanaguchi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "blind (meow Version)",
+      "artist": "Texas Pandaa",
+      "has_synced": false,
+      "path": "select/05_blind_(meow_Version)_Texas_Pandaa.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Meow Meow Introduces the Grand Theft Orchestra",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/06_Meow_Meow_Introduces_the_Grand_Theft_Orchestra_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "My Cat (Meow mix by Synical)",
+      "artist": "Jack Off Jill",
+      "has_synced": false,
+      "path": "select/07_My_Cat_(Meow_mix_by_Synical)_Jack_Off_Jill.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "My Cat (Meow Mix)",
+      "artist": "Jack Off Jill",
+      "has_synced": false,
+      "path": "select/08_My_Cat_(Meow_Mix)_Jack_Off_Jill.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Party Meow",
+      "artist": "Mike Shinoda",
+      "has_synced": true,
+      "path": "select/09_Party_Meow_Mike_Shinoda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All Meow Life (Nick Hook Remix)",
+      "artist": "Run The Jewels",
+      "has_synced": true,
+      "path": "select/10_All_Meow_Life_(Nick_Hook_Remix)_Run_The_Jewels.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lie, Cheat, Meow (Prince Paul Remix)",
+      "artist": "Run The Jewels",
+      "has_synced": true,
+      "path": "select/11_Lie,_Cheat,_Meow_(Prince_Paul_Remix)_Run_The_Jewels.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Oh My Darling Don't Meow (Just Blaze Remix)",
+      "artist": "Run The Jewels",
+      "has_synced": false,
+      "path": "select/12_Oh_My_Darling_Don't_Meow_(Just_Blaze_Remix)_Run_The_Jewels.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MEOW",
+      "artist": "MEOVV",
+      "has_synced": false,
+      "path": "select/pl_01_MEOW_MEOVV.txt"
+    }
+  ]
+}
